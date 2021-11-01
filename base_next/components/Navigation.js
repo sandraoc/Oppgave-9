@@ -14,11 +14,6 @@ export default function Navigation() {
                     Movies
                 </Link>
             </li>
-            <li>
-                <Link href="/create">
-                    Add Movies
-                </Link>
-            </li>
         </ul>
     </nav>
   )
